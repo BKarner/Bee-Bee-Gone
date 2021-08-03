@@ -11,9 +11,5 @@ The project intends to feature:
 * Leaderboards (Local and Global).
 * iFrame <-> game events for website embedding.
 
-## Usage
-The project is directly to be packaged and built for the SA-RP GTA:V community mod. (https://www.sa-rp.com).
-To run, upload the packaged html files to a webserver and open it via the url to the file.
-
 ## Contribution
 Currently looking for people to assist in level creation as 120 levels takes a toll!
